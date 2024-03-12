@@ -1,0 +1,1 @@
+ C:\\development\\flutter-apps\\Bahrain\ Bus\\BahrainBus\\.dart_tool\\flutter_build\\498c0d6f2392934fca57ae12c3418618\\native_assets.yaml: 

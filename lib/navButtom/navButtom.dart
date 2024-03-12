@@ -1,9 +1,6 @@
 import 'package:curved_navigation_bar/curved_navigation_bar.dart';
 import 'package:first_app/src/Homepage/homepage.dart';
 import 'package:first_app/src/Homepage/landmark/landBuild.dart';
-import 'package:first_app/src/Homepage/track/search.dart';
-import 'package:first_app/src/Homepage/track/trackingStation.dart';
-import 'package:first_app/src/register/register.dart';
 import 'package:first_app/src/side%20menu/profile/profile.dart';
 import 'package:flutter/material.dart';
 
