@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">87604891169-fo46op19sogmudvmpfl9qldi4rttgu4s.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">87604891169</string>
+    <string name="google_api_key" translatable="false">AIzaSyDZSEwxUg0wh_fvlkH5UvZC63WvK4usLU4</string>
+    <string name="google_app_id" translatable="false">1:87604891169:android:5481724a125bb1a87ddd60</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDZSEwxUg0wh_fvlkH5UvZC63WvK4usLU4</string>
+    <string name="google_storage_bucket" translatable="false">bahrain-public-transport.appspot.com</string>
+    <string name="project_id" translatable="false">bahrain-public-transport</string>
+</resources>

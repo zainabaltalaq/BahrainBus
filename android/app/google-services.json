@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "87604891169",
+    "project_id": "bahrain-public-transport",
+    "storage_bucket": "bahrain-public-transport.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87604891169:android:5481724a125bb1a87ddd60",
+        "android_client_info": {
+          "package_name": "com.example.first_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "87604891169-fo46op19sogmudvmpfl9qldi4rttgu4s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZSEwxUg0wh_fvlkH5UvZC63WvK4usLU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "87604891169-fo46op19sogmudvmpfl9qldi4rttgu4s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

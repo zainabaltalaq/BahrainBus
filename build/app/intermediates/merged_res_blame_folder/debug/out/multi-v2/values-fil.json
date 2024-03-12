@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\development\\flutter-apps\\Bahrain Bus\\bahrainBus-master\\bahrainBus-master\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-fil\\values-fil.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\iamze\\.gradle\\caches\\transforms-3\\753bec2235189186d86264f3eaf7b203\\transformed\\jetified-play-services-wallet-19.2.1\\res\\values-fil\\values.xml",
+                    "from": {
+                        "startLines": "4,5",
+                        "startColumns": "0,0",
+                        "startOffsets": "203,260",
+                        "endColumns": "56,78",
+                        "endOffsets": "259,338"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,116",
+                        "endColumns": "60,82",
+                        "endOffsets": "111,194"
+                    }
+                }
+            ]
+        }
+    ]
+}
