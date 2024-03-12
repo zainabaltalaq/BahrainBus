@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\development\\flutter-apps\\Bahrain Bus\\bahrainBus-master\\bahrainBus-master\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-de\\values-de.xml",
+            "outputFile": "C:\\development\\flutter-apps\\Bahrain Bus\\BahrainBus\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-de\\values-de.xml",
             "map": [
                 {
                     "source": "C:\\Users\\iamze\\.gradle\\caches\\transforms-3\\753bec2235189186d86264f3eaf7b203\\transformed\\jetified-play-services-wallet-19.2.1\\res\\values-de\\values.xml",

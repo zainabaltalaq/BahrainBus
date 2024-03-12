@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\development\\flutter-apps\\Bahrain Bus\\bahrainBus-master\\bahrainBus-master\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rAU\\values-en-rAU.xml",
+            "outputFile": "C:\\development\\flutter-apps\\Bahrain Bus\\BahrainBus\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rAU\\values-en-rAU.xml",
             "map": [
                 {
                     "source": "C:\\Users\\iamze\\.gradle\\caches\\transforms-3\\2ed1965e3d4e4d9decacb58fecdb1e42\\transformed\\core-1.10.1\\res\\values-en-rAU\\values-en-rAU.xml",
